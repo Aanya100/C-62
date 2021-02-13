@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: azure;
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: aquamarine;
+}
+img{
+ transition: transform .2s;  
+ }
+img:hover{
+    transform: scale(0.9);
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+#Mycarousel{
+    background-color: aquamarine;
+}
+#Mycarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+#Mycarousel p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
